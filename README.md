@@ -9,3 +9,5 @@ npm run dev
 yarn
 yarn dev
 ```
+
+read docs of react-scroll to understand all the features provided by this npm package
